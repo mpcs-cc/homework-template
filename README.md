@@ -1,4 +1,4 @@
-# <assignment name>
+# [assignment name]
 
 If the assignment requires a write-up, please include it here.
 
